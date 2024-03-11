@@ -48,14 +48,14 @@
             // 
             this.txtUserName.Location = new System.Drawing.Point(398, 68);
             this.txtUserName.Name = "txtUserName";
-            this.txtUserName.Size = new System.Drawing.Size(100, 22);
+            this.txtUserName.Size = new System.Drawing.Size(198, 22);
             this.txtUserName.TabIndex = 1;
             // 
             // txtpassword
             // 
             this.txtpassword.Location = new System.Drawing.Point(398, 136);
             this.txtpassword.Name = "txtpassword";
-            this.txtpassword.Size = new System.Drawing.Size(100, 22);
+            this.txtpassword.Size = new System.Drawing.Size(198, 22);
             this.txtpassword.TabIndex = 3;
             // 
             // label2
@@ -71,9 +71,9 @@
             // 
             this.btnlogin.Location = new System.Drawing.Point(453, 272);
             this.btnlogin.Name = "btnlogin";
-            this.btnlogin.Size = new System.Drawing.Size(75, 23);
+            this.btnlogin.Size = new System.Drawing.Size(133, 23);
             this.btnlogin.TabIndex = 4;
-            this.btnlogin.Text = "button1";
+            this.btnlogin.Text = "Đăng nhập";
             this.btnlogin.UseVisualStyleBackColor = true;
             // 
             // Form1
