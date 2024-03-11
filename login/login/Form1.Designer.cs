@@ -48,6 +48,34 @@
             this.txtUserName.Size = new System.Drawing.Size(198, 22);
             this.txtUserName.TabIndex = 1;
             // 
+<<<<<<< HEAD
+=======
+            // txtpassword
+            // 
+            this.txtpassword.Location = new System.Drawing.Point(398, 136);
+            this.txtpassword.Name = "txtpassword";
+            this.txtpassword.Size = new System.Drawing.Size(198, 22);
+            this.txtpassword.TabIndex = 3;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(153, 139);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(61, 16);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Mật khẩu";
+            // 
+            // btnlogin
+            // 
+            this.btnlogin.Location = new System.Drawing.Point(453, 272);
+            this.btnlogin.Name = "btnlogin";
+            this.btnlogin.Size = new System.Drawing.Size(133, 23);
+            this.btnlogin.TabIndex = 4;
+            this.btnlogin.Text = "Đăng nhập";
+            this.btnlogin.UseVisualStyleBackColor = true;
+            // 
+>>>>>>> parent of b308af4 (add MethidLogin)
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
