@@ -16,5 +16,16 @@ namespace login
         {
             InitializeComponent();
         }
+
+        private void btnlogin_Click(object sender, EventArgs e)
+        {
+            if (txtUserName.Text == "admin" && txtpassword.Text == "admin")
+            {
+                MessageBox.Show("Đăng nhập thành công");
+                Form2 form = new Form2();
+                form.ShowDialog();
+            }
+            else MessageBox.Show("Đăng nhâp thất bại");
+        }
     }
 }
